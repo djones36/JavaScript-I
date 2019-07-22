@@ -5,8 +5,10 @@
 // };
 // myFunction();
 
-let myFunction 
-console.log
+myFunction =>{
+    console.log("Function was invoked!");
+}
+
 
 // let anotherFunction = function (param) {
 //   return param;
