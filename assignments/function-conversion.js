@@ -5,6 +5,9 @@
 // };
 // myFunction();
 
+let myFunction 
+console.log
+
 // let anotherFunction = function (param) {
 //   return param;
 // };
