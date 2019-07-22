@@ -5,7 +5,7 @@
 // };
 // myFunction();
 
-myFunction =>{
+myFunction => {
     console.log("Function was invoked!");
 }
 
